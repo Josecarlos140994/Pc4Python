@@ -42,16 +42,16 @@ def mostrar_datos():
     return registros
 
 def main():
-    # Crear la base de datos y la tabla si no existen
+    # Crear la base de datos
     crear_base_datos()
     
-    # Obtener datos de la API de SUNAT
+    # API de SUNAT
     datos = obtener_datos_sunat(3, 2023)
     if datos:
-        # Almacenar los datos en la base de datos
+        # Almacenar los datos
         almacenar_datos(datos)
     
-    # Mostrar los datos almacenados
+    # Mostrar los datos 
     registros = mostrar_datos()
     for registro in registros:
         print(registro)
