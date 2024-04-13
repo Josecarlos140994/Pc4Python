@@ -1,0 +1,6 @@
+Registro obtenido el 2024-04-13 17:17:29:
+Fecha de Actualización: Apr 13, 2024 17:17:04 UTC
+Descripción: United States Dollar (USD)
+Precio de Bitcoin: $67103.8963
+Disclaimer: This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org
+
